@@ -1,0 +1,22 @@
+body{
+  background-color: #00d0ff;
+}
+hr{
+  background-color: lightgreen;
+  border-style: dotted;
+  height: 2px;
+}
+
+h1{
+  color: red
+}
+h3{
+  color: red
+}
+img{
+  background-color: blue;
+}
+
+img:hover {
+  background-color: gold;
+}
